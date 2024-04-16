@@ -7,7 +7,7 @@ import { FirstName, LastName } from "../../utils/getName";
 
 import './About.css';
 
-import profile from '../../assets/slave-2.jpg';
+import profile from '../../assets/slave-2.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {
