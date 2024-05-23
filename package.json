@@ -57,6 +57,7 @@
     ]
   },
   "devDependencies": {
-    "emailjs": "^4.0.0"
+    "emailjs": "^4.0.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
   }
 }

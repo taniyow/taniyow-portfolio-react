@@ -12,11 +12,12 @@
 }
 ._img {
   margin: 10em;
-  width: 35em;
-  height: 20em;
+  width: 50em;
+  height: 30em;
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.51);
+  object-fit: cover;
 }
 ._content_wrapper {
   width: 40%;

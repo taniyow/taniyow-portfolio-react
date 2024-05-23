@@ -1,145 +1,140 @@
 {
-    "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
-        "picture": "mt.png",
-        "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
-        "location": {
-            "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
-        },
-        "profiles": [
-            {
-                "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
-                "x_icon": "fab fa-google"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
-                "x_icon": "fab fa-linkedin-in"
-            },
-            {
-                "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
-                "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
-                "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "taniyow#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
-            }
-        ]
+  "basics": {
+    "name": "Angel Henrietta Aboah",
+    "label": "Web Developer",
+    "email": "aboahangel16@gmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "picture": "mt.png",
+    "x_title": "Hello, I'm",
+    "job1": "Web",
+    "job2": "Developer",
+    "description": "Hello! I'm Angel Henrietta Aboah! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+    "summary": "based in Mid-Jutland, Denmark.",
+    "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+    "url": "https://github.com/AngelHenriettaAboah",
+    "location": {
+      "address": "XX XXXXXstreet",
+      "postalCode": "XXXXX",
+      "city": "Mid-Jutland",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "region": "Central Denmark"
     },
-    "work": [
-        {
-            "company": "Company",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "highlights": ["Started the company"]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
-    "education": [
-        {
-            "institution": "University",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
-    ],
-    "languages": [
-        {
-            "language": "German",
-            "fluency": "Native speaker"
-        },
-        {
-            "language": "English",
-            "fluency": "Fluent speaker"
-        },
-        {
-            "language": "French",
-            "fluency": "Good knowledge"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference..."
-        }
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "aboahangel16@gmail.com",
+        "url": "mailto:aboahangel16@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mcmtan",
+        "url": "https://www.linkedin.com/in/angel-henrietta-aboah-480085154/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "Angel Henrietta Aboah",
+        "url": "https://github.com/AngelHenriettaAboah",
+        "x_icon": "fab fa-github"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2024-01-01",
+      "endDate": "present",
+      "summary": "In construction",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Simon Peter Kirke-Kolding",
+      "position": "Volunteer",
+      "website": "https://www.simonpeterskirke.dk",
+      "startDate": "2022-04-01",
+      "endDate": "present",
+      "summary": "Assists with organizing educational and creative activities for the international congregation.",
+      "highlights": [
+        "Extracurricular activities 'Participate in seasonal religious camps'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "HackYourFuture Denmark",
+      "area": "Full-Stack Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "15.10.2023",
+      "endDate": "17.07.2024"
+    },
+
+    {
+      "institution": "Ternopil Ivan Puluj National Technical University",
+      "area": "Computer Engineering",
+      "studyType": "MSc",
+      "startDate": "2020-01-09",
+      "endDate": "2021-31-12",
+      "gpa": "4.0",
+      "courses": [
+        "Network and Information Security, MySql, C#, c/c++, Cloud Computing, Frameworks etc"
+      ]
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Elartu-Ternopil Ivan Puluj National Technical University",
+      "releaseDate": "2021-13-12",
+      "website": "https://elartu.tntu.edu.ua/bitstream/lib/36745/3/Aboah%20Final%20Thesis.pdf",
+      "summary": "Here's a publication of my Master's thesis titled Methods of increasing the security level of the information and communication sytem of visa service  "
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "NodeJS",
+        "MySql",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Intermediate speaker"
+    },
+    {
+      "language": "ukrainian",
+      "fluency": "Basic Knowledge"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Travel", "hiking", "cafe hunting", "Coding", "shopping"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
 }
