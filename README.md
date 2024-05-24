@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Portfolio Demo](https://example.com/path/to/demo-image.png)
+![Portfolio Demo](https://raw.githubusercontent.com/AngelHenriettaAboah/Angel-portfolio--react/main/src/assets/demo.png)
 
 ## Description
 
